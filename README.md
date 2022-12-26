@@ -37,7 +37,7 @@ Agile software development emphasizes collaboration, adaptability, and continuou
 <p align="justify">
 The goal of agile software development is to create software that is flexible, responsive, and able to adapt to changing needs and requirements. It is often used in environments where the requirements or needs of the software are not fully understood at the outset, or where there is a need to iteratively and incrementally improve the software over time.<p>
 
-  <a href="https://github.com/saboye/Agile-Software-Testing">
+  <a href="https://github.com/saboye/Agile-Software-Testing/images/agile_softwar_development.png">
     <img src="images/agile_softwar_development.png" alt="Logo" width="1000" height="600">
   </a>
   
