@@ -13,8 +13,8 @@
 
 ### Table of contents
 1. [what is an agile software development?](#what_is_agile_software_development)
-2. [Agile Software Development](#Agile_Software_Development)
-<!-- 3. [The benefits of early and frequent feedback](#early_feedback) -->
+2. [Agile Software Development](#Agile_Software_Development)<br>
+    2.1. [The whole-team approach](#early_feedback)
 
 ***
 
@@ -33,7 +33,7 @@ The goal of agile software development is to create software that is flexible, r
   </a>
   
 # Agile Software Development <a name="Agile_Software_Development">
-## The whole-team approach to testing involves involving all members of the development team in the testing process, rather than relying solely on a dedicated testing team. This approach has several advantages:
+## The whole-team approach to testing involves involving all members of the development team in the testing process, rather than relying solely on a dedicated testing team. This approach has several advantages: <a name ="#early_feedback">
   
 1. Faster feedback: By involving the whole team in testing, feedback on the quality and functionality of the software can be obtained more quickly, as the testing is distributed among more people.
 
@@ -100,3 +100,34 @@ There are several ways that retrospectives can be used to improve the process in
 
 By using retrospectives as a mechanism for process improvement, the team can identify and address issues, improve communication and collaboration, and encourage continuous improvement, leading to a more efficient and effective development process.
  
+## The tester should understand the use and purpose of continuous  integration.  
+
+Continuous integration (CI) is a software development practice where developers regularly integrate their code changes into a shared repository. Each integration is then automatically built and tested, allowing teams to detect and resolve conflicts early in the development process.
+
+The purpose of continuous integration is to improve the quality and reliability of software by catching and fixing defects early in the development process. By integrating code changes regularly, teams can identify and resolve conflicts and issues more quickly, reducing the risk of costly rework later on.
+
+Continuous integration also promotes collaboration and communication within the development team, as all team members are working with the same codebase and are aware of each other's changes. This can help to reduce errors and improve the overall quality of the software.
+
+In addition, continuous integration can improve the speed of the development process by allowing teams to release software more frequently. By integrating and testing code changes automatically, teams can reduce the time and effort required to release software, allowing them to deliver new features and functionality to users more quickly.
+
+Overall, continuous integration is a valuable software development practice that helps teams to improve the quality and reliability of their software, promote collaboration and communication, and speed up the development process.
+
+## The tester should know the differences between iteration and release  planning, and how a tester adds value in each of these activities. 
+
+Iteration planning and release planning are two important activities in the software development process that help teams to define and prioritize the work that needs to be done.
+
+Iteration planning is the process of planning the work that will be completed during a specific iteration (also known as a sprint in Agile development). This typically involves identifying and prioritizing the user stories that will be worked on during the iteration, and breaking them down into smaller tasks that can be completed within the iteration timeframe.
+
+Release planning is the process of planning the work that will be completed for a specific software release. This typically involves identifying and prioritizing the user stories that will be included in the release, and determining the overall scope and timeline for the release.
+
+A tester adds value to both iteration and release planning by:
+
+1. Providing input on the testing requirements for each user story: The tester can help to identify any testing considerations or requirements for each user story, such as the types of tests that need to be performed or the data that needs to be prepared for testing.
+
+2. Participating in the prioritization process: The tester can provide input on the priority of different user stories based on the testing requirements and the potential impact on the overall quality of the software.
+
+3. Identifying any dependencies or constraints: The tester can help to identify any dependencies or constraints that may impact the testing process, such as the need for specific hardware or software.
+
+4. Providing estimates for testing activities: The tester can provide estimates for the testing activities that will be required for each user story, helping the team to plan and allocate resources effectively.
+
+By participating in iteration and release planning, the tester can help the team to prioritize and plan the work that needs to be done in a way that ensures that testing is taken into account and that the overall quality of the software is maintained.
