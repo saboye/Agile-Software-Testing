@@ -18,6 +18,8 @@
     2.1. [The whole-team approach](#early_feedback)
 3. [The tester should recall Agile software development approaches.](#recall) -->
 
+### Table of contents
+[PART -1](#part_1)
 
 [PART -2](#part_2)
 
@@ -70,18 +72,21 @@ The benefits of early and frequent feedback include: <a name="early_feedback">
   </a>
   
 ## The tester should recall Agile software development approaches.<a name="recall">
-  
-Agile software development is a set of principles for software development that values individuals and interactions, working solutions, and customer collaboration. Agile approaches to software development aim to deliver high-quality software quickly and efficiently by embracing change and continuously adapting to new requirements and feedback.
+<p align="justify">  
+Agile software development is a set of principles for software development that values individuals and interactions, working solutions, and customer collaboration. Agile approaches to software development aim to deliver high-quality software quickly and efficiently by embracing change and continuously adapting to new requirements and feedback.</>
 
-In Agile development, the testing process is integrated into the development process, and testing activities are carried out continuously throughout the development cycle. This approach allows for early and frequent feedback, which can help to identify and address issues quickly.
+<p align="justify">
+In Agile development, the testing process is integrated into the development process, and testing activities are carried out continuously throughout the development cycle. This approach allows for early and frequent feedback, which can help to identify and address issues quickly.</p>
 
-Some common Agile software development approaches include Scrum, Extreme Programming (XP), and Lean Development. Each of these approaches has its own specific practices and processes, but they all share a focus on delivering working software quickly and efficiently through iterative development and continuous improvement.
+<p align="justify">
+Some common Agile software development approaches include Scrum, Extreme Programming (XP), and Lean Development. Each of these approaches has its own specific practices and processes, but they all share a focus on delivering working software quickly and efficiently through iterative development and continuous improvement.</p>
   
 ## The tester should be able to write testable user stories in collaboration  with developers and business representatives.  
-  
-User stories are a way of describing the functionality that a software product should have from the perspective of the end user. They are typically written in a simple, concise format that can be easily understood by all members of the development team.
+<p align="justify">
+User stories are a way of describing the functionality that a software product should have from the perspective of the end user. They are typically written in a simple, concise format that can be easily understood by all members of the development team.</p>
 
-To write testable user stories, the tester should work closely with developers and business representatives to ensure that the user stories are clear and accurately reflect the needs and desires of the end users. Some tips for writing testable user stories include:
+<p align="justify">
+To write testable user stories, the tester should work closely with developers and business representatives to ensure that the user stories are clear and accurately reflect the needs and desires of the end users. Some tips for writing testable user stories include:</p>
 
 1. Make sure the user story is clear and concise: The user story should clearly describe the functionality that is being requested in a way that is easy to understand.
 
@@ -94,8 +99,10 @@ To write testable user stories, the tester should work closely with developers a
 By working closely with developers and business representatives and following these guidelines, the tester can write testable user stories that accurately reflect the needs and desires of the end users and can be easily tested.
   
 ## The tester should understand how retrospectives can be used as a  mechanism for process improvement in Agile projects.  
-  
-In Agile software development, retrospectives are regular meetings where the team reflects on the work that has been completed and discusses ways to improve the process moving forward. Retrospectives are an important mechanism for process improvement because they allow the team to identify and address any issues or challenges that have arisen during the development process.
+
+<p align="justify">
+In Agile software development, retrospectives are regular meetings where the team reflects on the work that has been completed and discusses ways to improve the process moving forward. Retrospectives are an important mechanism for process improvement because they allow the team to identify and address any issues or challenges that have arisen during the development process.</p>
+
 ```ruby
 There are several ways that retrospectives can be used to improve the process in Agile projects :-
 ```
@@ -107,27 +114,36 @@ There are several ways that retrospectives can be used to improve the process in
 
 4. Encouraging continuous improvement: Retrospectives provide an opportunity for the team to reflect on what has been done well and what could be improved upon in the future. This helps to encourage a culture of continuous improvement within the team.
 
-By using retrospectives as a mechanism for process improvement, the team can identify and address issues, improve communication and collaboration, and encourage continuous improvement, leading to a more efficient and effective development process.
+<p align="justify">
+By using retrospectives as a mechanism for process improvement, the team can identify and address issues, improve communication and collaboration, and encourage continuous improvement, leading to a more efficient and effective development process.</p>
  
 ## The tester should understand the use and purpose of continuous  integration.  
+<p align="justify">
+Continuous integration (CI) is a software development practice where developers regularly integrate their code changes into a shared repository. Each integration is then automatically built and tested, allowing teams to detect and resolve conflicts early in the development process.</p.
 
-Continuous integration (CI) is a software development practice where developers regularly integrate their code changes into a shared repository. Each integration is then automatically built and tested, allowing teams to detect and resolve conflicts early in the development process.
+<p align="justify">
+The purpose of continuous integration is to improve the quality and reliability of software by catching and fixing defects early in the development process. By integrating code changes regularly, teams can identify and resolve conflicts and issues more quickly, reducing the risk of costly rework later on.</p>
 
-The purpose of continuous integration is to improve the quality and reliability of software by catching and fixing defects early in the development process. By integrating code changes regularly, teams can identify and resolve conflicts and issues more quickly, reducing the risk of costly rework later on.
+<p align="justify">
+Continuous integration also promotes collaboration and communication within the development team, as all team members are working with the same codebase and are aware of each other's changes. This can help to reduce errors and improve the overall quality of the software.</p>
 
-Continuous integration also promotes collaboration and communication within the development team, as all team members are working with the same codebase and are aware of each other's changes. This can help to reduce errors and improve the overall quality of the software.
+<p align="justify">
+In addition, continuous integration can improve the speed of the development process by allowing teams to release software more frequently. By integrating and testing code changes automatically, teams can reduce the time and effort required to release software, allowing them to deliver new features and functionality to users more quickly.</p>
 
-In addition, continuous integration can improve the speed of the development process by allowing teams to release software more frequently. By integrating and testing code changes automatically, teams can reduce the time and effort required to release software, allowing them to deliver new features and functionality to users more quickly.
-
-Overall, continuous integration is a valuable software development practice that helps teams to improve the quality and reliability of their software, promote collaboration and communication, and speed up the development process.
+<p align="justify">
+Overall, continuous integration is a valuable software development practice that helps teams to improve the quality and reliability of their software, promote collaboration and communication, and speed up the development process.</p>
 
 ## The tester should know the differences between iteration and release  planning, and how a tester adds value in each of these activities. 
 
-Iteration planning and release planning are two important activities in the software development process that help teams to define and prioritize the work that needs to be done.
+<p align="justify">
+Iteration planning and release planning are two important activities in the software development process that help teams to define and prioritize the work that needs to be done.</p>
 
-Iteration planning is the process of planning the work that will be completed during a specific iteration (also known as a sprint in Agile development). This typically involves identifying and prioritizing the user stories that will be worked on during the iteration, and breaking them down into smaller tasks that can be completed within the iteration timeframe.
+<p align="justify">
+Iteration planning is the process of planning the work that will be completed during a specific iteration (also known as a sprint in Agile development). This typically involves identifying and prioritizing the user stories that will be worked on during the iteration, and breaking them down into smaller tasks that can be completed within the iteration timeframe.</p>
 
-Release planning is the process of planning the work that will be completed for a specific software release. This typically involves identifying and prioritizing the user stories that will be included in the release, and determining the overall scope and timeline for the release.
+<p align="justify">
+Release planning is the process of planning the work that will be completed for a specific software release. This typically involves identifying and prioritizing the user stories that will be included in the release, and determining the overall scope and timeline for the release.</P>
+
 ```ruby
 A tester adds value to both iteration and release planning by:
 ```
