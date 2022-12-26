@@ -11,24 +11,31 @@
 
   
 
-### Table of contents
+<!-- ### Table of contents
 [PART -1](#part_1)
 1. [what is an agile software development?](#what_is_agile_software_development)
 2. [Agile Software Development](#Agile_Software_Development)<br>
     2.1. [The whole-team approach](#early_feedback)
+3. [The tester should recall Agile software development approaches.](#recall) -->
+
+
 [PART -2](#part_2)
+
 [PART -3](#part_3)
-***
+  
+
 ### <h1 align="center" style="color:blue;" id="heading">PART -1 </h1><a name="part_1">
 
 # What is an Agile Software Development? <a name="what_is_agile_software_development"></a>
 
+<p align="justify">
+Agile software development is a method of software development that emphasizes the rapid and flexible development of high-quality software. It is based on the Agile Manifesto, which outlines a set of values and principles for software development that prioritize the needs and expectations of the customer, and advocate for the use of iterative and incremental approaches to software development.</p>
 
-Agile software development is a method of software development that emphasizes the rapid and flexible development of high-quality software. It is based on the Agile Manifesto, which outlines a set of values and principles for software development that prioritize the needs and expectations of the customer, and advocate for the use of iterative and incremental approaches to software development.
+<p align="justify">
+Agile software development emphasizes collaboration, adaptability, and continuous delivery, and it is often characterized by the use of short development cycles, known as "sprints," in which small teams of developers work closely together to deliver incremental improvements to the software. Agile methods also place a strong emphasis on user feedback and testing, and on the ability to quickly respond to changing requirements and priorities.</p>
 
-Agile software development emphasizes collaboration, adaptability, and continuous delivery, and it is often characterized by the use of short development cycles, known as "sprints," in which small teams of developers work closely together to deliver incremental improvements to the software. Agile methods also place a strong emphasis on user feedback and testing, and on the ability to quickly respond to changing requirements and priorities.
-
-The goal of agile software development is to create software that is flexible, responsive, and able to adapt to changing needs and requirements. It is often used in environments where the requirements or needs of the software are not fully understood at the outset, or where there is a need to iteratively and incrementally improve the software over time.
+<p align="justify">
+The goal of agile software development is to create software that is flexible, responsive, and able to adapt to changing needs and requirements. It is often used in environments where the requirements or needs of the software are not fully understood at the outset, or where there is a need to iteratively and incrementally improve the software over time.<p>
 
   <a href="https://github.com/saboye/Agile-Software-Testing">
     <img src="images/agile_softwar_development.png" alt="Logo" width="1000" height="600">
@@ -62,7 +69,7 @@ The benefits of early and frequent feedback include: <a name="early_feedback">
     <img src="images/The_benefits-of-early-and-frequent-feedback-include.png" alt="Logo" width="1000" height="400">
   </a>
   
-## The tester should recall Agile software development approaches.
+## The tester should recall Agile software development approaches.<a name="recall">
   
 Agile software development is a set of principles for software development that values individuals and interactions, working solutions, and customer collaboration. Agile approaches to software development aim to deliver high-quality software quickly and efficiently by embracing change and continuously adapting to new requirements and feedback.
 
