@@ -12,12 +12,14 @@
   
 
 ### Table of contents
+[PART -1](#part_1)
 1. [what is an agile software development?](#what_is_agile_software_development)
 2. [Agile Software Development](#Agile_Software_Development)<br>
     2.1. [The whole-team approach](#early_feedback)
-
+[PART -2](#part_2)
+[PART -3](#part_3)
 ***
-
+### <h1 align="center" style="color:blue;" id="heading">PART -1 </h1><a name="part_1">
 
 # What is an Agile Software Development? <a name="what_is_agile_software_development"></a>
 
@@ -87,9 +89,9 @@ By working closely with developers and business representatives and following th
 ## The tester should understand how retrospectives can be used as a  mechanism for process improvement in Agile projects.  
   
 In Agile software development, retrospectives are regular meetings where the team reflects on the work that has been completed and discusses ways to improve the process moving forward. Retrospectives are an important mechanism for process improvement because they allow the team to identify and address any issues or challenges that have arisen during the development process.
-
-There are several ways that retrospectives can be used to improve the process in Agile projects:
-
+```ruby
+There are several ways that retrospectives can be used to improve the process in Agile projects :-
+```
 1. Identifying and addressing issues: Retrospectives provide an opportunity for the team to identify and discuss any issues or challenges that have arisen during the development process. By addressing these issues, the team can improve the process and avoid similar problems in the future.
 
 2. Improving communication: Retrospectives can help to improve communication within the team by providing a forum for team members to discuss their experiences and ideas. This can help to identify any communication breakdowns and address them.
@@ -119,8 +121,9 @@ Iteration planning and release planning are two important activities in the soft
 Iteration planning is the process of planning the work that will be completed during a specific iteration (also known as a sprint in Agile development). This typically involves identifying and prioritizing the user stories that will be worked on during the iteration, and breaking them down into smaller tasks that can be completed within the iteration timeframe.
 
 Release planning is the process of planning the work that will be completed for a specific software release. This typically involves identifying and prioritizing the user stories that will be included in the release, and determining the overall scope and timeline for the release.
-
+```ruby
 A tester adds value to both iteration and release planning by:
+```
 
 1. Providing input on the testing requirements for each user story: The tester can help to identify any testing considerations or requirements for each user story, such as the types of tests that need to be performed or the data that needs to be prepared for testing.
 
@@ -131,3 +134,75 @@ A tester adds value to both iteration and release planning by:
 4. Providing estimates for testing activities: The tester can provide estimates for the testing activities that will be required for each user story, helping the team to plan and allocate resources effectively.
 
 By participating in iteration and release planning, the tester can help the team to prioritize and plan the work that needs to be done in a way that ensures that testing is taken into account and that the overall quality of the software is maintained.
+
+## Summary
+<p align="justify">
+Agile software development is a method of software development that emphasizes flexibility, collaboration, and continuous delivery. It is based on the Agile Manifesto, which outlines a set of values and principles for software development that prioritize the needs and expectations of the customer and advocate for the use of iterative and incremental approaches. Agile software development is characterized by short development cycles, known as "sprints," in which small teams of developers work together to deliver incremental improvements to the software. It also places a strong emphasis on user feedback and testing and the ability to quickly respond to changing requirements and priorities. The goal of agile software development is to create software that is flexible, responsive, and able to adapt to changing needs. It is often used in situations where the requirements or needs of the software are not fully understood at the outset or where there is a need to iteratively and incrementally improve the software over time.</p>
+
+# Key Words
+
+<table>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>
+
+```ruby
+Agile software development
+Agile Manifesto
+Rapid development
+High-quality software
+Iterative and incremental approaches
+Collaboration
+Continuous delivery
+Sprints
+Testing
+Changing requirements
+Flexibility
+Responsiveness
+Adaptability
+Short development cycles
+Incremental improvements
+Dedicated testing team
+Communication
+Ownership
+Accountability
+Learning opportunities
+
+```
+
+</td>
+<td>
+
+```ruby
+Early and frequent feedback
+Identification of issues
+Collaboration
+Risk
+Quality
+Agile software development approaches
+Scrum
+Extreme Programming (XP)
+Lean Development
+Iterative and incremental development
+Working software
+Embracing change
+Continuous integration
+Test-driven development
+Pair programming
+Collective ownership
+Sustainable development
+Customer involvement
+Empirical process control
+Self-organizing teams
+```
+
+</td>
+</tr>
+</table>
+
+### <h1 align="center" style="color:blue;" id="heading">PART -2 </h1><a name="part_2">
+### <h1 align="center" style="color:blue;" id="heading">PART -3 </h1><a name="part_3">
+### <h1 align="center" style="color:blue;" id="heading">PART -4 </h1><a name="part_4">
